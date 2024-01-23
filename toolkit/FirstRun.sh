@@ -1,8 +1,10 @@
 sudo chown root:root ../toolkit
+sudo chown root:root Update.sh
+sudo chown root:root toolkit.sh
 
-chmod 2771 ../toolkit
-chmod 4771 Update.sh
-chmod 4771 toolkit.sh
+chmod 2775 ../toolkit
+chmod 4775 Update.sh
+chmod 4775 toolkit.sh
 mkdir output
 chmod 700 output
 rm ../readme.txt
