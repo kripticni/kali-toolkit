@@ -9,6 +9,7 @@ rm ../readme.txt
 
 sudo mv ../toolkit /home
 rm -rf ../../kali-toolkit
+rmdir ../../kali-toolkit
 
 echo "
 folder moved to /home."
