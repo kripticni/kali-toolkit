@@ -7,4 +7,6 @@ mkdir output
 chmod 700 output
 echo "
 folder moved to /home."
+rm ../readme.txt
+rm FirstRun.sh
 
